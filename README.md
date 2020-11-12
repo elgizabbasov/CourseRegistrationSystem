@@ -6,10 +6,7 @@ application with a very simplistic GUI. Please reach me at elgizabbasov2001@gmai
  
 You can login into students accounts created in the mySQL database. 
 Students currently existing in the database are: 
-StudentName   StudentId
-Elgiz           300
-Farhad     	200
-Tyrone 		154
+StudentName and StudentId respectively: Elgiz - 300, Farhad - 200, Tyrone - 154
 
 You can add the courses currently existing in the database, which are: 
 ENGG233, ENSF409, PHYS259, MATH275, ENGG433, MATH375
