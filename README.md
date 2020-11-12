@@ -5,7 +5,7 @@ in the database. The program uses database from mySQL as its data, where the stu
 application with a very simplistic GUI. Please reach me at elgizabbasov2001@gmail.com if you have any questions or concerns.
  
 You can login into students accounts created in the mySQL database. 
-Students currently existing in the database are: 
+Student information currently existing in the database: 
 StudentName and StudentId respectively: Elgiz - 300, Farhad - 200, Tyrone - 154
 
 You can add the courses currently existing in the database, which are: 
