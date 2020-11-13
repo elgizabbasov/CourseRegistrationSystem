@@ -1,5 +1,5 @@
 # CourseRegistrationSystem
-My name is Elgiz Abbasov and I am a third-year software engineering student. This project was a term project that I made for one of my courses at the University of Calgary. It is a Course Registration System where you are able to register students into various courses that exist in the database. The program uses a database from MySQL as its data, where the students' information can be found, and is a client-server based application with a very simplistic GUI. Please reach me at elgizabbasov2001@gmail.com if you have any questions or concerns.
+This project was a term project that I made for one of my courses at the University of Calgary. It is a Course Registration System where you are able to register students into various courses that exist in the database. The program uses a database from MySQL as its data, where the students' information can be found, and is a client-server based application with a very simplistic GUI. Please reach me at elgizabbasov2001@gmail.com if you have any questions or concerns.
 
 You can log in to students' accounts created in the MySQL database. Student information currently existing in the database: StudentName and StudentId respectively: Elgiz - 300, Farhad - 200, Tyrone - 154
 
