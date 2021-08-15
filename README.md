@@ -6,5 +6,7 @@ You can log in to students' accounts created in the MySQL database. Student info
 You can add the courses currently existing in the database, which are: ENGG233, ENSF409, PHYS259, MATH275, ENGG433, MATH375
 
 # Demo Video:
+
 https://user-images.githubusercontent.com/72108920/129465079-e55e36ed-3e6b-419b-9b83-6f32cc0defaf.mp4
+
 Elgiz Abbasov © 2020.
