@@ -242,6 +242,6 @@ public class ClientView extends JFrame {
 	 */
 	
 	public static void main(String [] args) {
-		ClientView myClient = new ClientView (800,800);
+		ClientView myClient = new ClientView (800, 300);
 	}
 }
