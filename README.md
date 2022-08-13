@@ -16,6 +16,8 @@ java ServerControl
 javac ClientView.java
 java ClientView
 
+## MySQL
+Make sure your MySQL is up and running at: 
 
 # Demo Video:
 
