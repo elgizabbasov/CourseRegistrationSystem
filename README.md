@@ -1,9 +1,14 @@
 # CourseRegistrationSystem
 This started as a project that I made in Java for one of my courses at the University of Calgary. It is a Course Registration System where you are able to register students into first year engineering courses offered at the University of Calgary. The program uses a database from MySQL as its data, where the students' information can be found, and is a client-server based application with a very simplistic GUI. Please reach me at elgizabbasov2001@gmail.com if you have any questions or concerns.
 
-You can log in to students' accounts created in the MySQL database. Student information currently existing in the database: StudentName and StudentId respectively: Elgiz - 300, Farhad - 200, Tyrone - 154
+You can log in to students' accounts created in the MySQL database for demo purposes. 
+Student information currently existing in the database: 
+StudentName and StudentId respectively: 
 
-You can add the courses currently existing in the database, which are: ENGG233, ENSF409, PHYS259, MATH275, ENGG433, MATH375
+Elgiz - 300, Farhad - 200, Tyrone - 154
+
+# Setup
+
 
 # Demo Video:
 
