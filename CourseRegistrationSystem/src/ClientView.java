@@ -1,17 +1,11 @@
 import java.awt.BorderLayout;
 import java.awt.event.ActionEvent;
 import java.awt.event.ActionListener;
-import java.io.BufferedReader;
 import java.io.IOException;
-import java.io.PrintWriter;
-import java.net.Socket;
 import java.nio.CharBuffer;
 import java.sql.Connection;
-import java.sql.PreparedStatement;
 import java.sql.ResultSet;
-import java.sql.SQLException;
 import java.sql.Statement;
-import java.util.ArrayList;
 import javax.swing.JButton;
 import javax.swing.JFrame;
 import javax.swing.JLabel;
@@ -30,12 +24,8 @@ import javax.swing.SwingConstants;
  */
  
 public class ClientView extends JFrame {
-	CourseCatalogue allCourses;
-	Course aCourse;
 	Registration registration;
 	ClientControl cc;
-	ServerControl sc;
-	DBManager db;
 	Student aStudent;
 	
 	/**
@@ -86,7 +76,7 @@ public class ClientView extends JFrame {
 					registration = new Registration(aStudent);
 				}catch(NumberFormatException e)
 				{
-					System.out.println("Number formating error caught.");
+					System.out.println("Number formatting error caught.");
 				}
 
 			}
@@ -238,7 +228,6 @@ public class ClientView extends JFrame {
 	
 	/**
 	 * Run the client
-	 * @param args
 	 */
 	
 	public static void main(String [] args) {
