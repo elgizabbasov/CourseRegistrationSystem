@@ -8,7 +8,16 @@ StudentName and StudentId respectively:
 Elgiz - 300, Farhad - 200, Tyrone - 154
 
 # Setup
+Make sure you have jdbc.Driver installed and imported into IntelliJ.
 
+javac ServerControl.java
+java ServerControl
+
+javac ClientView.java
+java ClientView
+
+## MySQL
+Make sure your MySQL is up and running at: 
 
 # Demo Video:
 
